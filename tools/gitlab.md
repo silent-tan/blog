@@ -1,8 +1,6 @@
 # 用docker 安装gitlab教程
 
-> 系统：Ubuntu 16.04
-> 内存：2GB
-> CPU：双核
+> 系统：Ubuntu 16.04　内存：2GB　CPU：双核
 
 ### 1. 安装docker
 `wget -qO- https://get.docker.com/ | sh`
