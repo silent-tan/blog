@@ -1,5 +1,6 @@
 # blog
 个人博客备忘
 
-## 文章
+## 工具
 - [用docker进行gitlab一键安装](https://github.com/futurefeeling/blog/blob/master/tools/gitlab.md)
+- [搭建git服务器](https://github.com/farzer/blog/blob/master/tools/2017/git.md)
