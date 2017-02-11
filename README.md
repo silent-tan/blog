@@ -7,3 +7,4 @@
 - [常用Linux命令](https://github.com/farzer/blog/blob/master/tools/2017/shell.md)
 - [LNPM环境一键配置](https://github.com/farzer/blog/blob/master/tools/2017/LNPM.md)
 - [Nginx安装与使用](https://github.com/farzer/blog/blob/master/tools/2017/nginx.md)
+- [terminal优化-ZSH](https://github.com/farzer/blog/blob/master/tools/2017/zsh.md)
