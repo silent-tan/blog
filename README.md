@@ -9,3 +9,4 @@
 - [Nginx安装与使用](https://github.com/farzer/blog/blob/master/tools/2017/nginx.md)
 - [terminal优化-ZSH](https://github.com/farzer/blog/blob/master/tools/2017/zsh.md)
 - [tmux安装与使用](https://github.com/farzer/blog/blob/master/tools/2017/tmux.md)
+- [redis安装与使用](https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298)
