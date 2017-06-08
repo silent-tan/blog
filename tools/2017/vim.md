@@ -97,6 +97,18 @@ vim -on file1,file2...
 |:imap||||y||
 |:cmap|||||y|
 
+**2.键表对应**
+|vim标识符|键盘对应|
+|:-----:|:--------:|
+|<k0>-<k9>|小键盘0-9|
+|<S-...>|Shift + ... |
+|<C-...>|Ctrl + ... |
+|<M-...>或者<A-...>|Alt + ... 或者 Meta + ... |
+|<Esc>|Escape|
+|<Up>|光标上移键|
+|<Space>|空格键|
+|<Tab>|Tab键|
+|<CR>|Enter键|_
 
 ### 参考
 - [酷壳](http://coolshell.cn/)
