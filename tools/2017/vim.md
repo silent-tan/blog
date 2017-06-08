@@ -47,3 +47,6 @@ vim on file1,file2...
 增加高度: `Ctrl+W` `+`
 
 减小高度: `Ctrl+W` `-`
+
+### 参考
+- [酷壳](http://coolshell.cn/)
