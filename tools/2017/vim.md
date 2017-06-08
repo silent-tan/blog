@@ -48,5 +48,13 @@ vim on file1,file2...
 
 减小高度: `Ctrl+W` `-`
 
+#### 二.多文件编辑：缓冲区管理
+
+**1.打开**
+
+```bash
+vim filename1 filename2
+```
+
 ### 参考
 - [酷壳](http://coolshell.cn/)
