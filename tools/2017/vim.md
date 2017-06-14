@@ -12,6 +12,8 @@
 vim filename1 filename2
 ```
 
+在vim内打开新的缓冲区：`:e filename` or `:new`
+
 **2.切换缓冲区**
 
 - 显示缓冲区列表: `ls`
