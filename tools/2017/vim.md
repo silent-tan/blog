@@ -114,7 +114,9 @@ vim -on file1,file2...
 
 ### 插件
 
-#### NERDtree  <leader> + `e`
+#### NERDtree
+
+`<leader>` + `e`
 
 ```bash
 ?: 快速帮助文档
