@@ -167,6 +167,19 @@ q: 关闭NERDTree
 A: 全屏显示NERDTree，或者关闭全屏
 ```
 
+#### ctrlP
+
+`<leader>` + `f`: 模糊搜索最近打开的文件(MRU)
+
+`<leader>` + `p`: 模糊搜索当前目录及其子目录下的所有文件
+
+```zsh
+ctrl + j/k 进行上下选择
+ctrl + x 在当前窗口水平分屏打开文件
+ctrl + v 同上, 垂直分屏
+ctrl + t 在tab中打开
+```
+
 ### 参考
 - [酷壳](http://coolshell.cn/)
 - [vim map自定义快捷键](http://blog.jasonding.top/2015/04/29/Developer%20Kits/%E3%80%90Vim%E3%80%91%E4%BD%BF%E7%94%A8map%E8%87%AA%E5%AE%9A%E4%B9%89%E5%BF%AB%E6%8D%B7%E9%94%AE/)
