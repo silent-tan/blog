@@ -107,12 +107,12 @@ vim -on file1,file2...
 |<k0>-<k9>|小键盘0-9|
 |<S-...>|Shift + ... |
 |<C-...>|Ctrl + ... |
-|<M-...>或者<A-...>|Alt + ... 或者 Meta + ... |
+|<M-...>或者<A-...>|Alt + ... 或者 Meta + ...|
 |<Esc>|Escape|
 |<Up>|光标上移键|
 |<Space>|空格键|
 |<Tab>|Tab键|
-|<CR>|Enter键|_
+|<CR>|Enter键|
 
 #### 四.常规快捷键
 
