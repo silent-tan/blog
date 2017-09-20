@@ -78,6 +78,14 @@ gitlab-rake gitlab:backup:restore BACKUP=1393513186
 sudo docker restart gitlab
 ```
 
-### 6. 参考
+### 6. 卸载
+
+- 停止gitlab: `gitlab-ctl stop`
+- 卸载gitlab: `rpm -e gitlab-ce`
+- 查看gitlab进程: `ps aux | grep gitlab`
+- 杀掉第一个进程（带有好多.............的进程): kill -9 18777
+- 删除所有包含gitlab文件: `find / -name gitlab | xargs rm -rf`
+
+### 7. 参考
 - [GitLab Docker images](http://docs.gitlab.com/omnibus/docker/)
 - [Gitlab代码托管和自动化CI](http://blog.mukever.online/Gitlab%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8C%96CI/)
