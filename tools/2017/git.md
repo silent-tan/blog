@@ -5,6 +5,9 @@
   ```cmd
 $ sudo apt-get install git
 ```
+
+> [CentOS安装最新版git](https://my.oschina.net/antsky/blog/514586)
+
 2. 创建一个git用户，用来运行git服务：
 
   ```cmd
